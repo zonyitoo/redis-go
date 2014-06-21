@@ -1,0 +1,12 @@
+bin
+src
+
+## Sublime
+*.sublime-*
+
+## System
+.DS_Store
+
+## Editors
+*~
+*.swp
